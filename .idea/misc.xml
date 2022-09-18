@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/AudioPlayer/app/src/main/res/drawable/ic_baseline_notifications_none_24.xml" value="0.1525" />
+        <entry key="..\:/AndroidStudioProjects/AudioPlayer/app/src/main/res/drawable/ic_baseline_pause_circle_outline_24.xml" value="0.133" />
+        <entry key="..\:/AndroidStudioProjects/AudioPlayer/app/src/main/res/drawable/ic_list_check.xml" value="0.1715" />
+        <entry key="..\:/AndroidStudioProjects/AudioPlayer/app/src/main/res/drawable/ic_replay_svgrepo_com.xml" value="0.1715" />
+        <entry key="..\:/AndroidStudioProjects/AudioPlayer/app/src/main/res/drawable/item.xml" value="0.1525" />
+        <entry key="..\:/AndroidStudioProjects/AudioPlayer/app/src/main/res/drawable/item1.xml" value="0.1525" />
+        <entry key="..\:/AndroidStudioProjects/AudioPlayer/app/src/main/res/drawable/item_bg.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/AudioPlayer/app/src/main/res/layout/activity_audio.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/AudioPlayer/app/src/main/res/layout/activity_fazilat.xml" value="0.1911231884057971" />
+        <entry key="..\:/AndroidStudioProjects/AudioPlayer/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/AudioPlayer/app/src/main/res/layout/activity_splash.xml" value="0.23802083333333332" />
+        <entry key="..\:/AndroidStudioProjects/AudioPlayer/app/src/main/res/layout/notificationview.xml" value="0.195382642154767" />
+        <entry key="..\:/AndroidStudioProjects/AudioPlayer/app/src/main/res/layout/recycler_item.xml" value="0.195382642154767" />
+        <entry key="..\:/AndroidStudioProjects/AudioPlayer/app/src/main/res/menu/menu.xml" value="0.26875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
